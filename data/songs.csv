@@ -1,19 +1,19 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
-11,Broken Strings,Hollow Crown,hip-hop,sad,0.68,88,0.22,0.77,0.14
-12,Moonlight Reimagined,Clara Voss,classical,melancholic,0.18,56,0.31,0.22,0.97
-13,Pulse Drop,Axon Rush,edm,euphoric,0.96,140,0.88,0.95,0.04
-14,Back Road Dust,Cora Mae,country,nostalgic,0.52,96,0.63,0.58,0.82
-15,Velvet Touch,Sienna Gray,r&b,romantic,0.54,86,0.74,0.71,0.38
-16,Iron Wall,Fracture Point,metal,aggressive,0.98,168,0.19,0.55,0.03
-17,Empty Chair,Dusk & Ember,soul,sad,0.44,68,0.26,0.45,0.76
-18,Island Breeze,The Mellow Tide,reggae,relaxed,0.55,84,0.78,0.72,0.61
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,mood_tags,tempo_feel,liveness
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,85,2020s,"happy;upbeat;bright",medium,0.12
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,72,2020s,"chill;focused;calm",slow,0.08
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,78,2010s,"intense;powerful;driving",fast,0.25
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,68,2020s,"chill;calm;peaceful",slow,0.06
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,81,2010s,"intense;energetic;motivating",fast,0.18
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,60,2020s,"chill;dreamy;serene",slow,0.05
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,65,2000s,"relaxed;warm;nostalgic",slow,0.30
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,74,2010s,"moody;nostalgic;cinematic",medium,0.10
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,70,2020s,"focused;calm;productive",slow,0.07
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,76,2010s,"happy;breezy;uplifting",medium,0.20
+11,Broken Strings,Hollow Crown,hip-hop,sad,0.68,88,0.22,0.77,0.14,79,2010s,"sad;melancholic;raw",medium,0.15
+12,Moonlight Reimagined,Clara Voss,classical,melancholic,0.18,56,0.31,0.22,0.97,62,2000s,"melancholic;romantic;introspective",slow,0.45
+13,Pulse Drop,Axon Rush,edm,euphoric,0.96,140,0.88,0.95,0.04,88,2020s,"euphoric;energetic;euphoric",fast,0.09
+14,Back Road Dust,Cora Mae,country,nostalgic,0.52,96,0.63,0.58,0.82,67,2010s,"nostalgic;warm;storytelling",medium,0.35
+15,Velvet Touch,Sienna Gray,r&b,romantic,0.54,86,0.74,0.71,0.38,80,2020s,"romantic;smooth;sensual",medium,0.22
+16,Iron Wall,Fracture Point,metal,aggressive,0.98,168,0.19,0.55,0.03,71,2010s,"aggressive;intense;heavy",fast,0.28
+17,Empty Chair,Dusk & Ember,soul,sad,0.44,68,0.26,0.45,0.76,69,2000s,"sad;emotional;soulful",slow,0.40
+18,Island Breeze,The Mellow Tide,reggae,relaxed,0.55,84,0.78,0.72,0.61,73,2010s,"relaxed;happy;carefree",medium,0.32
